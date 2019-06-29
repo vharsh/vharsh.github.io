@@ -1,0 +1,4 @@
+baseURL = "http://vharsh.github.io"
+languageCode = "en-us"
+title = "Friday notes"
+theme = "even"
