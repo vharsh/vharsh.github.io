@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Harsh's (mis)-adventures"
+theme = "cactus"
