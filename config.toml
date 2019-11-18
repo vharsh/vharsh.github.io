@@ -25,7 +25,7 @@ googleAnalytics = ""
         # Pagination links
         olderPosts = ""
         newerPosts = ""
-        readMore = ""
+        readMore = "Read even more"
         copyright = ""
         # Sharing options and author information in posts
         aboutAuthor = "A peek into an insouciant mind which ❤️ breaks things"
